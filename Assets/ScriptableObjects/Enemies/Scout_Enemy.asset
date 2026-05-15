@@ -1,0 +1,8 @@
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_Script: {fileID: 11500000, guid: [GUID_FROM_ENEMYDATA], type: 3}
+  name: Scout_Enemy
+  health: 50
+  speed: 15
+  attackRange: 50
